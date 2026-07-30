@@ -2,6 +2,8 @@
   "name": "roblox-checker",
   "version": "1.0.0",
   "dependencies": {
+    "puppeteer-core": "^21.6.0",
+    "@sparticuz/chromium-min": "^119.0.2",
     "cheerio": "^1.0.0-rc.12"
   }
 }
